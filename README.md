@@ -1,11 +1,11 @@
 
-# 🧠 AI Response Quality Evaluation System
+#  AI Response Quality Evaluation System
 
 A human-in-the-loop machine learning system built with Streamlit that evaluates AI-generated responses and collects labeled feedback to improve model performance over time.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Evaluate AI responses based on:
   - Helpfulness (1–5)
@@ -19,7 +19,7 @@ A human-in-the-loop machine learning system built with Streamlit that evaluates 
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -29,7 +29,7 @@ A human-in-the-loop machine learning system built with Streamlit that evaluates 
 
 ---
 
-## 📊 What it does
+##  What it does
 
 1. User enters prompt and AI response  
 2. System allows human evaluation  
@@ -41,7 +41,7 @@ A human-in-the-loop machine learning system built with Streamlit that evaluates 
 
 ---
 
-## 🧠 Purpose
+##  Purpose
 
 This project simulates real-world AI training workflows used in:
 - AI model evaluation
@@ -50,7 +50,7 @@ This project simulates real-world AI training workflows used in:
 
 ---
 
-## ▶️ Run Locally
+##  Run Locally
 
 ```bash
 pip install -r requirements.txt
